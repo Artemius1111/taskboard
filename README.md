@@ -40,3 +40,5 @@ TaskBoard дозволяє створювати завдання, ставити
    ```
 2. Відкрий папку у VS Code.
 3. Запусти `index.html` через Live Server.
+
+[Відкрити сайт](https://artemius1111.github.io/taskboard/)
